@@ -14,9 +14,9 @@
 
 🎓 **B.Tech Computer Science Student**
 
-📱 Passionate about **Android Development**
+📱 Passionate about **Game Development**
 
-🤖 Interested in **Artificial Intelligence & Computer Vision**
+🤖 Interested in **Artificial Intelligence & Game Development**
 
 🎮 Dream: **Become a AAA Game Developer**
 
@@ -123,15 +123,15 @@
 # 📚 Currently Learning
 
 ```text
-Kotlin           ██████████░░ 80%
+Web Development  ████████░░░░ 70%
 
-Android          ████████░░░░ 70%
+Blender          ██████░░░░░░ 60%
 
-React            ██████░░░░░░ 60%
-
-Node.js          █████░░░░░░░ 50%
+Python           █████░░░░░░░ 50%
 
 Unity            ████░░░░░░░░ 40%
+
+Kotlin           ███░░░░░░░░░ 30%
 ```
 
 ---
