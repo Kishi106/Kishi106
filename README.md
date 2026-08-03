@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Balaji
+# 👋 Hi, I'm Balaji
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Android+Developer;AI+%26+Computer+Vision+Enthusiast;Future+Game+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Android+Developer;AI+%26+Computer+Vision+Enthusiast;Future+AAA+Game+Developer;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=Kishi106&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
@@ -12,20 +12,20 @@
 
 # 💫 About Me
 
-🎓 B.Tech CSE Student
+🎓 **B.Tech Computer Science Student**
 
-📱 Learning Android & Web Development
+📱 Passionate about **Android Development**
 
-🤖 Building AI & Computer Vision projects
+🤖 Interested in **Artificial Intelligence & Computer Vision**
 
-🎮 Dreaming of becoming a AAA Game Developer
+🎮 Dream: **Become a AAA Game Developer**
 
-🌱 Currently learning
+🌱 Currently Learning
 
-- Android
-- Blender
+- Android Development
+- Full Stack Development
 - Unity
-- Full Stack
+- Blender
 
 ---
 
@@ -37,12 +37,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Kishi106">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:tekupudibalaji@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Kishi106">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -67,11 +67,11 @@
 
 </p>
 
-### AI & Development
+### Game & Creative
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=blender,unity"/>
+<img src="https://skillicons.dev/icons?i=unity,blender"/>
 
 </p>
 
@@ -80,32 +80,22 @@
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🚧 Yukti | AI-powered pothole detection system using Android, GPS & Accelerometer |
-| 🤖 AI Mouse | Virtual Mouse using MediaPipe & OpenCV |
-| 🌍 EcoQuest | Environmental simulation game |
-| 📋 TManage | Team task management web application |
-| ✈️ Sahayatri | AI-powered travel assistant |
+|---------|-------------|
+| 🚧 **Yukti** | AI-powered pothole detection using Android, GPS & Accelerometer |
+| 🤖 **AI Mouse** | Virtual Mouse using OpenCV & MediaPipe |
+| 🌍 **EcoQuest** | Environmental Simulation Game |
+| 📋 **TManage** | Team Task Management System |
+| ✈️ **Sahayatri** | AI-powered Travel Assistant |
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kishi106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kishi106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishi106&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kishi106&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,36 +111,48 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🛠 Currently Working On
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kishi106&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
+- 📱 Android Applications
+- 🤖 AI Projects
+- 🌐 Full Stack Development
+- 🎮 Unity Game Development
 
 ---
 
-# ⚡ Current Focus
+# 📚 Currently Learning
 
 ```text
-📱 Android Development
-🤖 Artificial Intelligence
-🎮 Game Development
-🌍 Open Source
+Kotlin           ██████████░░ 80%
+
+Android          ████████░░░░ 70%
+
+React            ██████░░░░░░ 60%
+
+Node.js          █████░░░░░░░ 50%
+
+Unity            ████░░░░░░░░ 40%
 ```
 
 ---
 
-# 💡 Quote
+# ⚡ Fun Facts
 
-> "necessity is the mother of invention."
+- 🎮 I enjoy story-driven games and anime.
+- 🤖 I like building projects that solve real-world problems.
+- 🌱 I believe learning by building is the fastest way to grow.
+
+---
+
+# 💡 Favorite Quote
+
+> **"Necessity is the mother of invention."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
