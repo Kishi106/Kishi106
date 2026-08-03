@@ -55,7 +55,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,c,html,css,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,c,html,css,js,ts"/>
 
 </p>
 
@@ -71,7 +71,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,blender"/>
+<img src="https://skillicons.dev/icons?i=blender,unity"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 | 🤖 AI Mouse | Virtual Mouse using MediaPipe & OpenCV |
 | 🌍 EcoQuest | Environmental simulation game |
 | 📋 TManage | Team task management web application |
-| ✈️ Traveling Companion | AI-powered travel assistant |
+| ✈️ Sahayatri | AI-powered travel assistant |
 
 ---
 
@@ -144,7 +144,7 @@
 
 # 💡 Quote
 
-> "Build. Break. Learn. Repeat."
+> "necessity is the mother of invention."
 
 ---
 
