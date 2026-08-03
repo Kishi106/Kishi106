@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Balaji
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Android+Developer;AI+%26+Computer+Vision+Enthusiast;Future+AAA+Game+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Android&Web+Developer;AI+%26+Game+Development+Enthusiast;Future+AAA+Game+Developer;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=Kishi106&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
